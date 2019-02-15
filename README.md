@@ -59,6 +59,9 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
 ### TensorFlow and Spark with Python
 * [TensorFlow Get Started](https://www.tensorflow.org/tutorials/)
 * [Spark Quick Start](http://spark.apache.org/docs/latest/quick-start.html)
+    * Configure PySpark Driver for PySpark & Jupyter Notebook:
+        * `export PYSPARK_DRIVER_PYTHON=jupyter`
+        * `export PYSPARK_DRIVER_PYTHON_OPTS='notebook'`
 * [Databricks Get started with TensorFlow in 3 easy steps](https://databricks.com/tensorflow/getting-started-with-tensorflow-and-databricks) ([Azure Databricks, AWS Databricks, etc.)
 * [Hands-On Machine Learning with Scikit-Learn & TensorFlow, 2nd Ed. by Aurelien Geron, O'Reilly, 2019.](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_4?ie=UTF8&qid=1546027817&sr=8-4&keywords=Hands-On+Machine+Learning+with+Scikit-Learn+%26+TensorFlow) ([Code examples](https://github.com/ageron/handson-ml.git))
 * [Deep Learning with Python by Francois Chollet, Manning 2017.](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1544150024&sr=1-1-catcorr&keywords=deep+learning+with+python) ([Code examples](https://github.com/fchollet/deep-learning-with-python-notebooks))

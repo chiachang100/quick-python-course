@@ -15,25 +15,32 @@ Why Python? Python is a programming language that lets you work quickly and inte
 Created by **Guido van Rossum** and first released in 1991, Python has been utilized by every major company such as Microsoft, Google, Facebook, Apple, NASA, Dropbox, Uber, etc. and in many places. You can read the long list of [Python Success Stories](https://www.python.org/about/success/) from python.org website.
 
 ## Objectives
-This course is based on the materials of Naomi Ceder's book, "[The Quick Python Book 3rd Edition by Naomi Ceder](https://www.amazon.com/gp/product/1617294039/ref=dbs_a_def_rwt_bibl_vppi_i0)". Therefore this course is intended for people who already have experience in one or more programming languages and want to learn the basics of Python 3 as quickly and directly as possible.
+This course "is intended for people who already have experience in one or more programming languages and want to learn the basics of Python 3 as quickly and directly as possible." (['The Quick Python Book 3rd Edition by Naomi Ceder'](https://www.amazon.com/gp/product/1617294039/ref=dbs_a_def_rwt_bibl_vppi_i0))
 
 | Topics | Topics | Topics | Topics | Topics |
 |:------:|:------:|:------:|:------:|:------:|
-| About Python | Getting started | The Quick Python overview | Absolute basics | Lists, tuples, and sets |
-| Strings | Dictionaries | Control flow | Functions | Modules and scoping rules |
-| Python programs | Using the filesystem | Reading and writing files | Exceptions | Classes and object-oriented programming |
-| Regular expressions | Data types as objects | Packages | Using Python libraries | Basic file wrangling |
-| Processing data files | Data over the network | Saving data | Exploring data | - |
+| **Part 1: Starting out** |
+| Chapter 1. About Python | Chapter 2. Getting started | Chapter 3. The Quick Python overview |||
+| **Part 2: The essentials** |
+| Chapter 4. Absolute basics | Chapter 5. Lists, tuples, and sets | Chapter 6. Strings | Chapter 7. Dictionaries | Chapter 8. Control flow |
+| Chapter 9. Functions | Chapter 10. Modules and scoping rules | Chapter 11. Python programs | Chapter 12. Using the filesystem | Chapter 13. Reading and writing files |
+| Chapter 14. Exceptions | Chapter 15. Classes and object-oriented programming ||||
+| **Part 3: Advanced language features** |
+| Chapter 16. Regular expressions | Chapter 17. Data types as objects | Chapter 18. Packages | Chapter 19. Using Python libraries | Chapter 20. Basic file wrangling |
+| **Part 4: Working with data** |
+| Chapter 21. Processing data files | Chapter 22. Data over the network | Chapter 23. Saving data | Chapter 24. Exploring data ||
+| **Additional Contents** |
+| Case Study | Appendix A. A guide to Python's documentation | Appendix B. Exercise answers |||
 ||||||
 
 ## Prerequisite
-This course assumes you already have experience in one or more programming languages. Although some basic concepts are covered, there’s no attempt to teach fundamental programming skills in this course, and the basic concepts of flow control, OOP, file access, exception handling, and the like are assumed."
+This course "assumes you already have experience in one or more programming languages. Although some basic concepts are covered, there’s no attempt to teach fundamental programming skills in this course, and the basic concepts of flow control, OOP, file access, exception handling, and the like are assumed." (['The Quick Python Book 3rd Edition by Naomi Ceder'](https://www.amazon.com/gp/product/1617294039/ref=dbs_a_def_rwt_bibl_vppi_i0))
 
 ## Requirements
 You need a Windows 10, Mac OSX, or Linux computer (optional charger) with at least 4GB (8GB+ is reommended) of memory and be able to install program and follow instruction to do works.
 
 ### BEFORE THE FIRST CLASS
-* You need to buy Naomi Ceder's book "[The Quick Python Book 3rd Edition by Naomi Ceder](https://greenteapress.com/wp/think-python-2e/)" before attending the class.
+* You need to buy the textbook written by Naomi Ceder: "[The Quick Python Book 3rd Edition by Naomi Ceder](https://www.amazon.com/gp/product/1617294039/ref=dbs_a_def_rwt_bibl_vppi_i0)".
 * Download and install the following software:
     * Python 3.6 or higher from [python.org](https://www.python.org/) website.
     * We'll be using [Visual Studio Code](https://code.visualstudio.com/) for Windows, macOS, or Linux to edit your code.

@@ -1,7 +1,4 @@
-# QuickPythonCourse
-This course is based on Naomi Ceder’s "The Quick Python Book 3rd Edition by Naomi Ceder" book.
-
-# Course Title: Quick Python Course
+# Course Title: The Quick Python Course
 
 ## Date and Place
 This is an eight week course on Monday from 6:00 PM - 8:00PM and the exact dates and place of the next course will be announced later. Stay tuned!

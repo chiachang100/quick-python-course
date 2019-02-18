@@ -56,12 +56,16 @@ Chia is currently a Senior Software Engineer at Microsoft before that he had als
     ([PEP 8: Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/))
     * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     * [Learn Python](http://learnpython.org/)
+* Python 2 vs Python 3
+    * [Should I use Python 2 or Python 3 for my development activity?](https://wiki.python.org/moin/Python2orPython3)
+    * [What’s New In Python 3.0](https://docs.python.org/3/whatsnew/3.0.html)
+    * Python Readiness page (http://py3readiness.org), 359 of the 360 most popular librar- ies have already been ported to Python 3.
 
-### More Links for Python
-* [Python is TIOBE's programming language of the year 2018!](https://www.tiobe.com/tiobe-index/)
-* [Python Is Now the Most Popular Introductory Teaching Language at Top U.S. Universities By Philip Guo.](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext)
-* [Python is the most popular programming language in PYPL PopularitY of Programming Language Index](http://pypl.github.io/PYPL.html)
-* [Python is top 5 programming language in TIOBE Programming Community Index](https://www.tiobe.com/tiobe-index/)
+* More Links for Python
+    * [Python is TIOBE's programming language of the year 2018!](https://www.tiobe.com/tiobe-index/)
+    * [Python Is Now the Most Popular Introductory Teaching Language at Top U.S. Universities By Philip Guo.](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext)
+    * [Python is the most popular programming language in PYPL PopularitY of Programming Language Index](http://pypl.github.io/PYPL.html)
+    * [Python is top 5 programming language in TIOBE Programming Community Index](https://www.tiobe.com/tiobe-index/)
 
 ### TensorFlow and Spark with Python
 * [TensorFlow Get Started](https://www.tensorflow.org/tutorials/)

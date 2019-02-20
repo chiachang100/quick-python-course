@@ -10,7 +10,7 @@ Why Python? Python is a programming language that lets you work quickly and inte
 
 "Python Is Now the Most Popular Introductory Teaching Language at Top U.S. Universities" in Philip Guo's research and his writing [Communications of the ACM](https://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext) in July 2014. Below is the analysis chart done by Philip Guo:
 
-![Teaching Python as intro courses](https://cacm.acm.org/system/assets/0001/6722/Top39-700.4.png "Number of top 39 US CS departments that use each language to teach introductory courses")
+<img src="https://cacm.acm.org/system/assets/0001/6722/Top39-700.4.png" alt="Number of top 39 US CS departments that use each language to teach introductory courses" height="400" width="600"/>
 
 Created by **Guido van Rossum** and first released in 1991, Python has been utilized by every major company such as Microsoft, Google, Facebook, Apple, NASA, Dropbox, Uber, etc. and in many places. You can read the long list of [Python Success Stories](https://www.python.org/about/success/) from python.org website.
 

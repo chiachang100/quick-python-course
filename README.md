@@ -1,4 +1,4 @@
-# Course Title: Learning Python Crash Course
+# Course Title: Building Apps with Python
 
 ## Date and Place
 This is an eight week course on Monday from 6:00 PM - 8:00PM and the exact dates and place of the next course will be announced later. Stay tuned!

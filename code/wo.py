@@ -3,7 +3,7 @@
 def words_occur():
     """words_occur() - count the occurrences of words in a file."""
     # Prompt user for the name of the file to use.
-    file_name = input("Enter the name of the file: ")
+    file_name = input("Enter the name of the file (e.g. 'wo.py'): ")
     
     # Open the file, read it and store its words in a list.
     f = open(file_name, 'r')

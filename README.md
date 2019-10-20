@@ -1,4 +1,4 @@
-# Course Title: Yes You Can Code With Python
+# Course Title: Learning Python
 
 ## Date and Place
 This is an eight week course on Monday from 6:00 PM - 8:00PM and the exact dates and place of the next course will be announced later. Stay tuned!
